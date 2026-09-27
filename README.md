@@ -23,4 +23,3 @@ I first built a web application to visualize computational fluid dynamics result
 
 - [Quiz Arena](https://github.com/evipuil/Quiz-Arena): solo practice and local head-to-head buzzer matches for academic team practice.
 - [The Lagoon Legacy Project](https://github.com/evipuil/TheLagoonLegacyProject-Website): a website for environmental education, county chapters, and community participation around the Indian River Lagoon.
-- [Endgrate Dashboard](https://github.com/evipuil/endgratedashboard): a Flask application that retrieves Google Analytics data through Endgrate and plots it with Plotly.
