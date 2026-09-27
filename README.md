@@ -19,6 +19,10 @@ I first built a web application to visualize computational fluid dynamics result
 
 **Preprint:** Eshan Vipuil and Xianqi Li. [Integrating Physics-Informed Neural Networks and 3D Vascular Geometry Learning for Cerebral Aneurysm Detection and Multimodal Rupture-Risk Prediction](https://arxiv.org/abs/2607.10530). arXiv, July 2026. [Read the PDF](https://arxiv.org/pdf/2607.10530).
 
+## Engineering
+
+[**Particle Counting**](https://github.com/evipuil/Particle-Counting) — Python image analysis for microscopy particle detection, sizing, batch processing, and quantitative reporting. I developed it during a medical-device engineering internship. The public version uses synthetic images and has company-identifying information removed.
+
 ## School and community
 
 - [Quiz Arena](https://github.com/evipuil/Quiz-Arena): solo practice and local head-to-head buzzer matches for academic team practice.
