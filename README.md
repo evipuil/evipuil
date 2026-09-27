@@ -1,6 +1,6 @@
 # Eshan Vipuil
 
-![Four years of cerebral aneurysm research, from flow visualization to generalization studies](docs/images/research-overview.svg)
+![Research overview: aneurysm and carotid flow fields, a Unity flow visualization, Year 3 model comparisons, and Year 4 generalization results](docs/images/research-overview.png)
 
 I'm a student at West Shore Junior/Senior High School interested in computational modeling, machine learning, and biomechanics. My research began with a question: how can we make blood flow in a cerebral aneurysm easier to see and study?
 
