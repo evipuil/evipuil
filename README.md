@@ -12,8 +12,8 @@ I first built a web application to visualize computational fluid dynamics result
 | --- | --- | --- |
 | [Year 4: Generalization and hemodynamics](https://github.com/evipuil/Cerebral-Aneurysm-Modeling-ResearchY4) | Compare patient-grouped, dataset-held-out, and location-held-out validation, with physics guidance and FEM pretraining. | [Year 4 report](papers/year4-research-report.pdf) |
 | [Year 3: Aneurysm rupture modeling](https://github.com/evipuil/Aneurysm-Rupture-Risk-Prediction-ResearchY3) | Developed and compared models that combine geometry, flow measurements, and clinical variables, with a common training and evaluation procedure. | [2025–26 PDF](papers/science-research-2025-26.pdf) |
-| [HemoViz3D VR](https://github.com/evipuil/HemoViz3D-VR-App-ResearchY2) | Built a Unity/C# environment for exploring CFD-derived blood flow in 3D, including color mapping and animation. | [2024–25 PDF](papers/science-research-2024-25.pdf) |
-| [HemoViz3D Web](https://github.com/evipuil/HemoViz3D-Web-App-ResearchY1) | Built a Flask application that combines vascular geometry with velocity and wall shear stress plots and time-varying visualizations. | [2023–24 PDF](papers/science-research-2023-24.pdf) |
+| [Year 2: HemoViz3D VR](https://github.com/evipuil/HemoViz3D-VR-App-ResearchY2) | Built a Unity/C# environment for exploring CFD-derived blood flow in 3D, including color mapping and animation. | [2024–25 PDF](papers/science-research-2024-25.pdf) |
+| [Year 1: HemoViz3D Web](https://github.com/evipuil/HemoViz3D-Web-App-ResearchY1) | Built a Flask application that combines vascular geometry with velocity and wall shear stress plots and time-varying visualizations. | [2023–24 PDF](papers/science-research-2023-24.pdf) |
 
 **Publication:** [HemoViz3D: A Novel Open-Source Web Application for Visualization of Blood Flow Dynamics in Cerebral Aneurysms](https://doi.org/10.36838/v7i5.27), *International Journal of High School Research* (2025).
 
